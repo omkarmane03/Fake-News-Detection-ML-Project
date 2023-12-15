@@ -61,10 +61,10 @@ Email: omkarmane009@gmail.com
 NOGALES, Arizona, Dec 15 (Reuters) - Her daughter's school shut down, Yomara said, after a shootout between rival gangs competing for control of drug and migrant trafficking routes in their southern Mexican town of Chicomuselo. Then, she said, produce vendors cleared out of the market after they faced demands to affiliate with the gangs; she feared her husband Carlos would be forcibly recruited if he turned up for his job on a construction site.
 
 ### Output:
-LR Prediction: Not A Fake News 
-DT Prediction: Not A Fake News 
-GB Prediction: Not A Fake News 
-RF Prediction: Not A Fake News
+    LR Prediction: Not A Fake News
+    DT Prediction: Not A Fake News 
+    GB Prediction: Not A Fake News 
+    RF Prediction: Not A Fake News
 
 Absolutely right; the prediction is correct.
 
